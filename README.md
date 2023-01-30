@@ -313,7 +313,16 @@ Contact:
 ## OUTPUT:
 
 ### Home Page:
+![img](so1.png)
 
+### Product Page:
+![img](so2.png)
+
+### People Page:
+![img](so3.png)
+
+### Contact Page:
+![img](so4.png)
 
 
 ## Result:
